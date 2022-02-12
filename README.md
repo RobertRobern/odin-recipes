@@ -1,2 +1,2 @@
-# odin-recipes
-This project is about a website of various recipes. It will contain links to different recipes.
+# Collection of recipe - Kenya
+A  HTML website for various recipes collection in Kenya
