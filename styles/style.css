@@ -1,0 +1,22 @@
+/* .font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    
+} */
+
+.row{
+    display: block;
+    padding: 0px 0px 0px 0px;
+}
+
+.column{
+    background-color: rgb(245, 247, 243);
+    width: 60%;
+    margin: auto;
+    padding: 10px 60px 10px 60px;
+        
+}
+
+.content{
+    padding: 10px 10px 10px 10px;    
+}
